@@ -1,1 +1,11 @@
-env
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+target/
+# Archivos generados por IDE o sistema
+.DS_Store
+Thumbs.db
+# Dependencias del proyecto, si las hay
+/node_modules/
